@@ -1,0 +1,130 @@
+.rodapie{
+    grid-area: footer;    
+}
+.contacto__container{    
+    display: flex;    
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    padding: 30px 0;
+    align-items: flex-start;   
+    background-color: #dacab0;    
+}
+.contacto__logo{
+    margin-top: 2vw;
+    width: 18vw;
+    height: 5vw;
+    background: url("../img/logo.png") no-repeat center / cover;
+    filter: blur(0.5px);
+}
+.contacto__info{
+    margin-top: 1.5vw;
+}
+.contacto__info-li{
+    margin-bottom: 4vw;
+}
+
+.contacto__info--text:hover{
+    text-decoration: underline;
+}
+.contacto__info--text{
+    text-decoration: none;
+    color: #464646;    
+    font-size: 2vw;
+}
+.contacto__contactar{
+    width: 40%;
+    font-size: 1.5vw;
+}
+
+.contacto__contactar--title{
+    font-size:3.5vw;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+}
+.contacto__contactar--nombreInput{
+    border: none;
+    background-color: transparent;
+    margin-top: 1vw;
+    margin-bottom: 2vw;    
+}
+
+.contacto__contactar--nombreInput:focus{
+    outline: none;
+    text-decoration: none;
+}
+.contacto__contactar--nombreInput::placeholder{
+    color: rgba(36,57,85,0.11);
+}
+
+.contacto__mensaje-text,.contacto__mensaje-text:focus{
+    outline: none;
+    resize: none;
+    border: none;
+}
+.contacto__textBox:hover{
+    box-shadow: 10px 5px 10px 5px rgba(22,26,45,0.11);
+}
+.contacto__textBox{
+    display: flex;
+    flex-direction: column;
+    background-color: #FFFFFF;
+    padding:2vw;
+    margin: 2vw 0;
+    border-radius: 1.8vw;
+    box-shadow: 1px 3px 3px 0px rgba(22,26,45,0.11);
+    color: rgba(36,57,85,0.11);
+}
+.contacto__button:hover{
+    box-shadow: 0px 5px 10px 5px rgba(22,26,45,0.11);
+    transform: scale(1.02);
+}
+
+.contacto__button:active{
+    box-shadow: inset 0 0 30px 8px #0c72d6, 0 0 5px 1px #000000;
+    transform: scale(0.9);
+}
+.contacto__button{
+    padding: 2vw;
+    background-color: #635A4C;
+    border-radius: 0.5vw;
+    color:#FFFFFF;
+    border: none;
+    margin-top: 0.3rem ;
+    cursor: pointer;
+}
+.info__dev {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    background-color: #FFFFFF;
+}
+
+.info__dev-text{
+    font-family: 'Raleway', sans-serif;
+    font-size: 2vw;
+    margin-top: 2vw;
+    line-height: 0;
+    color: #2b2623;
+}
+.Linkedin{
+    margin-bottom:2vw;   
+}
+
+.Linkedin a{
+    color: #635A4C;
+    font-size: 1.5vw;
+}
+.Linkedin a:hover{
+    border-radius: 1em;
+    box-shadow: 5px 8px 5px #5e5f5e;
+    color: rgb(110, 81, 39);
+    font-size: 2.3vw;
+    font-weight: bold;
+    padding: 1vw;
+    transition: .8s;
+}
+.fa-linkedin{
+    margin-right: 1vw;
+    font-size: 2vw;
+}

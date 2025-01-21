@@ -1,0 +1,65 @@
+.encabezado{
+    grid-area: header;
+    width: 100%;    
+    display: flex;
+    flex-direction: column;
+    margin: 0.7vw 0;      
+}
+.menu{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.izquierda__menu{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.izquierda__menu--barradebusqueda{
+    display: flex;
+    width: 60%;  
+    justify-content: space-between;    
+    background: #F5F5F5;    
+    border-radius: 1rem ;
+    color: #A2A2A2;
+    padding: 1%;
+    font-family: 'Raleway';          
+}
+.barradebusqueda__input{
+    width: 80%;
+    border: none;
+    background: transparent;
+    font-size: 1.5vw;
+    font-weight: 400;      
+}
+.barradebusqueda__boton:hover{
+    cursor: pointer;
+}
+.izquierda__menu--image{
+    background: url("../img/logo.png") no-repeat center / cover;
+    width: 35%;
+    height: 5vw;
+    filter: blur(0.5px);      
+}
+.derecha__menu--boton{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    color: #886552;
+    background: none;
+    padding: 0.5vw 4vw;
+    border: 1px solid #886552;
+    cursor: pointer;   
+}
+.derecha__menu--boton:hover{
+    box-shadow: 10px 5px 10px 5px rgba(22,26,45,0.11);
+    transform: scale(1.02);
+}
+.derecha__menu--boton:active{
+    box-shadow: inset 0 0 30px 8px rgba(22,26,45,0.11) , 0 0 5px 1px #000000;
+    transform: scale(0.99);
+}

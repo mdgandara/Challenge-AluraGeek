@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/font-awesome/css/font-awesome.min.css">    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- Fuente del Proyecto Raleway -->
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap" rel="stylesheet">
+    <link  rel="icon"   href="./assets/img/favicon.png" type="image/png" />
+    <title>AluraGeek</title>    
+    <link rel="stylesheet" href="./assets/css/index/index.css">
+    <link rel="stylesheet" href="./assets/css/encabezado.css">
+    <link rel="stylesheet" href="./assets/css/index/banner/banner.css">   
+    <link rel="stylesheet" href="./assets/css/productos/productos.css">
+    <link rel="stylesheet" href="./assets/css/index/productos/productosCard.css">
+    <link rel="stylesheet" href="./assets/css/rodapie.css">    
+    <link rel="stylesheet" href="./assets/css/reset.css">
+    <link rel="stylesheet" href="./assets/css/normalize.css">
+</head>
+<body class="app">
+    <header class="encabezado">
+        <div class="menu">
+            <div class="izquierda__menu">
+                <div class="izquierda__menu--image"></div>
+                <span class="izquierda__menu--barradebusqueda"><input class="barradebusqueda__input" type="text" placeholder="¿Que deseas buscar?"><i class="fa-solid fa-magnifying-glass barradebusqueda__boton"></i></span>
+               
+            </div>
+            <div class="derecha__menu">
+                <a class="header__login" href="./index.html">
+                    <button class="derecha__menu--boton">volver <i class="fa-solid fa-arrow-left"></i></button>
+                </a>
+            </div>
+        </div>
+    </header>
+    <main class="main">
+        <div class="contenido">
+            <section class="Busqueda">
+                <div class="productos__header">
+                    <h2 class="productos__title"></h2>
+                    <a class="productos__mostrar" style="visibility: hidden;">ver todos<i class="fa-solid fa-arrow-right" alt = "ver todos icon"></i></a>
+                </div>
+                <div class="productos__contenedor" datosBusqueda>            
+                </div>
+            </section>
+    </main>  
+    <footer class="rodapie">
+        <div class="contacto">  
+            <section class="contacto__container">
+                <div class="contacto__logo"></div>
+                <div class="contacto__info">
+                    <ul>
+                        <li class="contacto__info-li"><a class="contacto__info--text" href = "#">Quienes somos</a></li>
+                        <li class="contacto__info-li"><a class="contacto__info--text" href = "#">Política de privacidad</a></li>
+                        <li class="contacto__info-li"><a class="contacto__info--text" href = "#">Programa de fidelidad</a></li>
+                        <li class="contacto__info-li"><a class="contacto__info--text" href = "#">Nuestras Tiendas</a></li>
+                        <li class="contacto__info-li"><a class="contacto__info--text" href = "#">Quiero ser franquiciado</a></li>
+                        <li class="contacto__info-li"><a class="contacto__info--text" href = "#">Anúncie aquí</a></li>
+                    </ul>
+                </div>
+                <form class="contacto__contactar" action="./pantallas/mensaje-enviado.html">
+                    <h2 class="contacto__contactar--title">Escribinos</h2>    
+                    <label class="contacto__contactar--nombre contacto__textBox">
+                         Nombre
+                        <input class="contacto__contactar--nombreInput form-input" type="text" id="name" name="name" autocomplete="off" required maxlength="40">
+                        <span class="input-message-error"></span>
+                    </label>    
+                    <label class="contacto__mensaje contacto__textBox">
+                        Escribe tu mensaje
+                        <textarea class="contacto__mensaje-text form-input" type="text" id="message" name="message" rows="5" autocomplete="off" required maxlength="120"></textarea>
+                        <span class="input-message-error"></span>
+                    </label>    
+                    <a href = "#" rel="">
+                        <button class="contacto__button" type="submit" id="submit">Enviar mensaje</button>
+                    </a>    
+                </form>
+            </section>       
+        </div>      
+        <div class="info__dev">
+            <p class="info__dev-text">Desarrollado por César Rosa -2022 </p>
+            <span class="Linkedin"><a href="https://www.linkedin.com/in/césar-rosa-007104237/" target="_blank"><i class="fa-brands fa-linkedin"></i><span>Linkedin </span></a></span>
+        </div>
+    </footer>
+    <script type="text/javascript" src="https://kit.fontawesome.com/450bc1455c.js" crossorigin="anonymous"></script>
+    <script src="./assets/js/forms.js"></script>
+    <script type="module" src="./controllers/busqueda.js"></script>
+    <script src="./assets/js/botonbusqueda.js"></script>        
+</body>
+</html>

@@ -1,0 +1,148 @@
+{
+  "productos": [
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa8",
+      "nombre": "Julio Verne - El Volcán de Oro",
+      "categoria": "Aventura",
+      "precio": "$1900",
+      "url": "./assets/img/productos/1.png",
+      "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "5fce4c0f-cc26-4d8b-8b3d-0dd32bd1ed42",
+      "nombre": "Robert Howard - Conan de las Islas",
+      "categoria": "Aventura",
+      "precio": "$1700",
+      "url": "./assets/img/productos/2.png",
+      "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "dd812e89-3244-4259-80d2-31eaeb87db2f",
+      "nombre": "Daniel Defoe - Robinson Crusoe",
+      "categoria": "Aventura",
+      "precio": "$1.700",
+      "url": "./assets/img/productos/3.png",
+      "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "60d94c77-d9f9-4f13-9a40-2c2776fc1783",
+      "nombre": "Emilio Salgari - El Capitan del Djumma",
+      "categoria": "Aventura",
+      "precio": "$1700",
+      "url": "./assets/img/productos/4.png",
+      "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "6d2f43f3-3641-4676-9857-9a1dd9a0c6eb",
+      "nombre": "Robert Stevenson - La Isla del Tesoro",
+      "categoria": "Aventura",
+      "precio": "$1700",
+      "url": "./assets/img/productos/5.png",
+      "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "b322f3ca-e935-4c47-be1d-1186b62d896d",
+      "nombre": "Rober Howard  - Conan el Usurpador",
+      "categoria": "Aventura",
+      "precio": "$1700",
+      "url": "./assets/img/productos/6.png",
+      "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa8",
+      "nombre": "Leon Tolstói - Anna Karénina",
+      "categoria": "Romance",
+      "precio": "$2000",
+      "url": "./assets/img/productos/7.png",
+      "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "5fce4c0f-cc26-4d8b-8b3d-0dd32bd1ed42",
+      "nombre": "Laura Kinsale - Una Extraña Locura",
+      "categoria": "Romance",
+      "precio": "$2000",
+      "url": "./assets/img/productos/8.png",
+      "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "56218e70-b7df-42f7-a7e5-6a9704ccdc8e",
+      "nombre": "William Shakespeare - Romeo y Julieta",
+      "categoria": "Romance",
+      "precio": "$2000",
+      "url": "./assets/img/productos/9.png",
+      "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "145931cb-5040-4942-be29-466fa73b2974",
+      "nombre": "Jane Austen - Orgullo y Prejuicio",
+      "categoria": "Romance",
+      "precio": "$2000",
+      "url": "./assets/img/productos/10.png",
+      "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "2cc2443e-ce31-48ab-bc89-1452435b9a15",
+      "nombre": "Margaret Mitchell - Lo que el viento se llevó",
+      "categoria": "Romance",
+      "precio": "$2000",
+      "url": "./assets/img/productos/11.png",
+      "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "f49704a8-f874-4755-ac79-bc12e6fb2071",
+      "nombre": "Luisa M. Alcott - Mujercitas",
+      "categoria": "Romance",
+      "precio": "$2000",
+      "url": "./assets/img/productos/12.png",
+      "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "42cbacbf-9d26-4cd3-a6bd-eadc5c857af4",
+      "nombre": "Alejandro Dumas - Los Tres Mosqueteros",
+      "categoria": "Clásicos",
+      "precio": "$2200",
+      "url": "./assets/img/productos/13.png",
+      "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "18259ce5-8dd8-4ce1-bc98-fd80e4b2ec6a",
+      "nombre": "G.G. Marquez - Cien Años de Soledad",
+      "categoria": "Clásicos",
+      "precio": "$2200",
+      "url": "./assets/img/productos/14.png",
+      "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "a572bcb1-ef1e-4d7f-96ae-a50a9ee6721b",
+      "nombre": "Charles Dickens - Grandes Esperanzas",
+      "categoria": "Clásicos",
+      "precio": "$2200",
+      "url": "./assets/img/productos/15.png",
+      "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "a0d2c615-c4eb-42ec-8b3a-89505662a033",
+      "nombre": "Gustave Flaubert - Madame Bovary",
+      "categoria": "Clásicos",
+      "precio": "$2200",
+      "url": "./assets/img/productos/16.png",
+      "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "58476105-bf3b-4340-8eda-e2e8cbc48a8f",
+      "nombre": "Anónimo - Las Mil y Una Noches",
+      "categoria": "Clásicos",
+      "precio": "$2200",
+      "url": "./assets/img/productos/17.png",
+      "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "bdbb8d11-67e0-428a-8f0c-4cbdda4201bb",
+      "nombre": "Herman Melville - Moby Dick",
+      "categoria": "Clásicos",
+      "precio": "$2200",
+      "url": "./assets/img/productos/18.png",
+      "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    }
+  ]
+}
